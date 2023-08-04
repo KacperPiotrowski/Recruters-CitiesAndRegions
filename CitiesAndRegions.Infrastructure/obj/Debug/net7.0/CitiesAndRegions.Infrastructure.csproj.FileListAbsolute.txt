@@ -1,0 +1,17 @@
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Infrastructure.deps.json
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Infrastructure.runtimeconfig.json
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Infrastructure.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Infrastructure.pdb
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Domain.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/bin/Debug/net7.0/CitiesAndRegions.Domain.pdb
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.csproj.AssemblyReference.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.AssemblyInfoInputs.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.AssemblyInfo.cs
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.csproj.CopyComplete
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/refint/CitiesAndRegions.Infrastructure.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.pdb
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/CitiesAndRegions.Infrastructure.genruntimeconfig.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/Debug/net7.0/ref/CitiesAndRegions.Infrastructure.dll

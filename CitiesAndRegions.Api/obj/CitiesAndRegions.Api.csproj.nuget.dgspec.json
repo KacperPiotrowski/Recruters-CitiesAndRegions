@@ -1,0 +1,363 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Api/CitiesAndRegions.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Api/CitiesAndRegions.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Api/CitiesAndRegions.Api.csproj",
+        "projectName": "CitiesAndRegions.Api",
+        "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Api/CitiesAndRegions.Api.csproj",
+        "packagesPath": "/Users/kacperpiotrowski/.nuget/packages/",
+        "outputPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kacperpiotrowski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/CitiesAndRegions.Application.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/CitiesAndRegions.Application.csproj"
+              },
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj"
+              },
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "SignalRSwaggerGen": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/CitiesAndRegions.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/CitiesAndRegions.Application.csproj",
+        "projectName": "CitiesAndRegions.Application",
+        "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/CitiesAndRegions.Application.csproj",
+        "packagesPath": "/Users/kacperpiotrowski/.nuget/packages/",
+        "outputPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kacperpiotrowski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj"
+              },
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj",
+        "projectName": "CitiesAndRegions.Domain",
+        "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj",
+        "packagesPath": "/Users/kacperpiotrowski/.nuget/packages/",
+        "outputPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kacperpiotrowski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj",
+        "projectName": "CitiesAndRegions.Infrastructure",
+        "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/CitiesAndRegions.Infrastructure.csproj",
+        "packagesPath": "/Users/kacperpiotrowski/.nuget/packages/",
+        "outputPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kacperpiotrowski/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj": {
+                "projectPath": "/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/CitiesAndRegions.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "SignalRSwaggerGen": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

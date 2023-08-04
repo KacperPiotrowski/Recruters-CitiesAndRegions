@@ -1,0 +1,12 @@
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/bin/Debug/net7.0/CitiesAndRegions.Domain.deps.json
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/bin/Debug/net7.0/CitiesAndRegions.Domain.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/bin/Debug/net7.0/CitiesAndRegions.Domain.pdb
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.csproj.AssemblyReference.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.AssemblyInfoInputs.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.AssemblyInfo.cs
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.csproj.CoreCompileInputs.cache
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/refint/CitiesAndRegions.Domain.dll
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/CitiesAndRegions.Domain.pdb
+/Users/kacperpiotrowski/Projects/CitiesAndRegions/CitiesAndRegions.Domain/obj/Debug/net7.0/ref/CitiesAndRegions.Domain.dll
